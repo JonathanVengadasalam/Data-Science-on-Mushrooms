@@ -1,4 +1,3 @@
-
 import pandas as pd
 raw_data = pd.read_csv("TP_2_datset_mushrooms.csv")
 raw_data.shape
